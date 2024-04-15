@@ -68,10 +68,12 @@ void loop()
 <img src="https://github.com/kaviya2839/Control-of-Relay-Using-IoT-controller/assets/120553351/1c883250-1301-4ca4-bb74-d7f512d0114e" width="500" height="300" />
 
 ## OUTPUT:
+
 ### ON STATE :
 <img src="https://github.com/kaviya2839/Control-of-Relay-Using-IoT-controller/assets/120553351/ff1d334e-154b-4133-b395-88a309c5966e" width="500" height="300" />
+
 ### OFF STATE :
 <img src="https://github.com/kaviya2839/Control-of-Relay-Using-IoT-controller/assets/120553351/a582915f-28fa-4a33-9957-0de61f38fe9e" width="500" height="300" />
-## RESULT:
 
+## RESULT:
 Thus the relay is controlled using Arduino controller.
