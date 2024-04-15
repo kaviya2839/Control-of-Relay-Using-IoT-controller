@@ -54,22 +54,24 @@ void loop()
   bs=digitalRead(3);
   if(bs==1)
   {
-    digitalWrite(13,HIGH); // LED ON
+    digitalWrite(13,HIGH);
   }
   else
   {
-    digitalWrite(13,LOW); // LED OFF
+    digitalWrite(13,LOW); 
   }
 
 }
 
 ```
 ## CIRCUIT DIAGRAM:
-<img src="https://github.com/kaviya2839/Control-of-Relay-Using-IoT-controller/assets/120553351/22578281-1a96-45ae-9e7e-e7a5c9ef014e" width="500" height="300" />
+<img src="!https://github.com/kaviya2839/Control-of-Relay-Using-IoT-controller/assets/120553351/a582915f-28fa-4a33-9957-0de61f38fe9e" width="500" height="300" />
+
 
 ## OUTPUT:
 ### ON STATE :
-<img src="https://github.com/kaviya2839/Control-of-Relay-Using-IoT-controller/assets/120553351/7919c64b-fbff-479e-94c4-41f9beed7518" width="500" height="300" />
+<img src="https://github.com/kaviya2839/Control-of-Relay-Using-IoT-controller/assets/120553351/ff1d334e-154b-4133-b395-88a309c5966e" width="500" height="300" />
+
 
 ## RESULT:
 
