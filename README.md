@@ -54,13 +54,16 @@ void loop() {
 } 
 ```
 ## CIRCUIT DIAGRAM:
-![alt text](<Screenshot 2025-03-27 135310.png>)
+![image](https://github.com/user-attachments/assets/a4ab8def-6f98-4f5d-b9ce-02e8e9d793a0)
+
 ## OUTPUT:
 
 ## ON
-![alt text](<Screenshot 2025-03-27 134536.png>)
+![image](https://github.com/user-attachments/assets/2efeb40d-f1b7-4e22-92bc-45913049bcf7)
+
 ## OFF
-![alt text](<Screenshot 2025-03-27 134602.png>)
+![Uploading image.png…]()
+
 
 ## RESULT:
 
