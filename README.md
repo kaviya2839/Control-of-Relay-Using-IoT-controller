@@ -1,6 +1,7 @@
-#### NAME: KAVIYA SHREE S
-#### REG.NO: 212222110018
-# EXP-02 Control of Relay Using IoT controller
+## NAME: KAVIYA SHREE S
+## REG NO: 212222110018
+
+# EX 02 Control-of-Relay-Using-IoT-controller
 
 ##  AIM:
 To control the Relay using Arduino controller
@@ -41,39 +42,26 @@ In this Arduino  Relay Control Circuit we have used Arduino to control the relay
 
 ## PROGRAM:
 ```
-int bs=0;
-void setup() 
-{
-  pinMode(13,OUTPUT);
-  pinMode(3,INPUT);
-
+void setup() {
+  pinMode(7,OUTPUT);
 }
 
-void loop() 
-{
-  bs=digitalRead(3);
-  if(bs==1)
-  {
-    digitalWrite(13,HIGH);
-  }
-  else
-  {
-    digitalWrite(13,LOW); 
-  }
-
-}
-
+void loop() {
+  digitalWrite(7,HIGH);
+  delay(3000);
+  digitalWrite(7,LOW);
+  delay(1000);
+} 
 ```
 ## CIRCUIT DIAGRAM:
-<img src="https://github.com/kaviya2839/Control-of-Relay-Using-IoT-controller/assets/120553351/1c883250-1301-4ca4-bb74-d7f512d0114e" width="500" height="300" />
-
+![alt text](<Screenshot 2025-03-27 135310.png>)
 ## OUTPUT:
 
-### ON STATE :
-<img src="https://github.com/kaviya2839/Control-of-Relay-Using-IoT-controller/assets/120553351/ff1d334e-154b-4133-b395-88a309c5966e" width="500" height="300" />
-
-### OFF STATE :
-<img src="https://github.com/kaviya2839/Control-of-Relay-Using-IoT-controller/assets/120553351/a582915f-28fa-4a33-9957-0de61f38fe9e" width="500" height="300" />
+## ON
+![alt text](<Screenshot 2025-03-27 134536.png>)
+## OFF
+![alt text](<Screenshot 2025-03-27 134602.png>)
 
 ## RESULT:
+
 Thus the relay is controlled using Arduino controller.
