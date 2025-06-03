@@ -1,7 +1,7 @@
 ## NAME: KAVIYA SHREE S
 ## REG NO: 212222110018
 
-# EX 02 Control-of-Relay-Using-IoT-controller
+# EX 02 Control of Relay Using IoT controller
 
 ##  AIM:
 To control the Relay using Arduino controller
